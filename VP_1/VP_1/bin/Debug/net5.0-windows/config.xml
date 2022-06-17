@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataToSave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentState>AwaitingFurtherInstructions</CurrentState>
+  <ParametersRecieved />
+  <OpenedBracketsCounter>0</OpenedBracketsCounter>
+  <CurrentInput>5680</CurrentInput>
+  <ReadyToCalculationExpression> 5624 + 56</ReadyToCalculationExpression>
+  <ShownToUserExpression> 5624 + 56</ShownToUserExpression>
+</DataToSave>
